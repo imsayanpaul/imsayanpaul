@@ -4,7 +4,7 @@ I'm a developer focused on building functional, developer-focused utilities and 
 
 ---
 
-## 🛠️ Tech Stack & tools
+## 🛠️ Tech Stack & Tools
 
 <!-- A unified, clean, flat-square icon layout that looks polished rather than chaotic -->
 <p align="left">
@@ -15,24 +15,6 @@ I'm a developer focused on building functional, developer-focused utilities and 
   <img src="https://img.shields.io/badge/Git-121214?style=flat-square&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/PowerShell-121214?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell">
 </p>
-
----
-
-## 🚀 Featured Project
-
-<!-- Beautifully structured HTML project card featuring ScrollMark -->
-<table>
-  <tr>
-    <td>
-      <h3>🎯 <a href="https://github.com/imsayanpaul/scrollmark">ScrollMark</a></h3>
-      <p>A lightweight Chrome extension to anchor your exact reading position on any page—specifically optimized to handle complex dynamic scroll panels like <b>ChatGPT, Gemini, and Grok</b>. Built during exam study breaks to prevent losing scroll focus while counter-questioning AI threads.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Manifest_V3-active-success?style=flat-square" alt="Manifest V3">
-        <img src="https://img.shields.io/badge/Hotkeys-Alt%2BS%20%2F%20Alt%2BJ-orange?style=flat-square" alt="Hotkeys">
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
