@@ -44,6 +44,8 @@
 
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=imsayanpaul)](https://git.io/streak-stats)
+
 ###
 
 <h2 align="left">Connect With Me</h2>
