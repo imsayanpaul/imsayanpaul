@@ -46,7 +46,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imsayanpaul)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imsayanpaul&v=2)](https://git.io/streak-stats)
 
 ###
 
